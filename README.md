@@ -1,7 +1,7 @@
 # nodejs-todo
 
 <h1>Author: Nikhil Gaba</h1>
-
+<p>Heroku deployment: <a href="https://a3-ci.herokuapp.com/">Assignment 3</a></p>
 <h2> A simple To Do List application built with Node.js and Express</h2>
 
 <p> How to run the app locally: </p>
