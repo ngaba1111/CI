@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+body {
+    background: bisque;
+    color: #333333;
+    margin-top: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
