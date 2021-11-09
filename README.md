@@ -1,4 +1,4 @@
-# nodejs-todo
+# A To-do app in Node.js and Express deployed on Heroku to demonstrate Continous Integration
 
 <h4>Author: Nikhil Gaba</h4>
 <p>Heroku deployment: <a href="https://a3-ci.herokuapp.com/">Assignment 3</a></p>
