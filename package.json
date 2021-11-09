@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Vanessa Ating",
-  "license": "ISC",
+  "author": "Nikhil",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.0",
     "ejs": "^2.5.7",
